@@ -10,11 +10,12 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtaruMatsudaira&theme=tokyonight&utcOffset=8)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gq006fs3xf4g6zpe360dcpylr)
 
 
 <!--
 **AtaruMatsudaira/AtaruMatsudaira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gq006fs3xf4g6zpe360dcpylr)
 
 
 Here are some ideas to get you started:
