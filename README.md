@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### My name is Ataru Matsudaira
+
 <!-- リポジトリステータス -->
 [![AtaruMatsudaira's github stats](https://github-readme-stats.vercel.app/api?username=AtaruMatsudaira&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/AtaruMatsudaira/)
 
