@@ -2,9 +2,9 @@
 
 ### My name is Ataru Matsudaira
 
-<!-- リポジトリステータス -->
+<!-- リポジトリステータス CollaboratorやOrgだとカウントされないっぽい？なんにせよ、ちょっとショボいのでボツ
 [![AtaruMatsudaira's github stats](https://github-readme-stats.vercel.app/api?username=AtaruMatsudaira&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/AtaruMatsudaira/)
-
+ -->
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtaruMatsudaira&layout=compact&theme=tokyonight)](https://github.com/AtaruMatsudaira/)
 
